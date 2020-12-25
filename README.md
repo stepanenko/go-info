@@ -1,3 +1,2 @@
-## AngularJS App - Weather
 
-by **Codecademy**
+## Empty-2
