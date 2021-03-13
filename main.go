@@ -1,10 +1,14 @@
-// package declaration:
-package main // makes this file an executable; requires main() function
+package main
 
-// importing other packages that we need, standard or reusable from other devs:
-import "fmt" // accessing standard Go library - format
+import "fmt"
 
-// declare functions, tell Go to do things:
 func main() {
-	fmt.Println("Hi there!")
+	// var card string = "Ace of Spades" // valid but unnecessary
+	// card := "Ace of Spades" // use := only once when initialise a new variable
+	card := newCard()
+	fmt.Println(card)
+}
+
+func newCard() string {
+	return "Ace of Spades"
 }
