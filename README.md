@@ -1,5 +1,5 @@
 
-# Go (Golang) Notes
+# Go (Golang)
 
 Go is a statically typed, compiled, open source programming language designed by Google and first
 appeared in 2009. It’s synonymous with server-side development and tooling for infrastructure projects.
