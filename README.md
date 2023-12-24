@@ -4,8 +4,7 @@
 Go is a statically typed, compiled, open source programming language designed by Google and first
 appeared in 2009.
 
-Go is very popular for server-side projects, but it is also very popular for writing Command
-Line Interfaces (CLIs) because the binaries can be statically linked.
+Go is very popular for server-side projects, but it is also very popular for writing CLIs because the binaries can be statically linked.
 
 Compiled - code is compiled ahead of execution.
 
