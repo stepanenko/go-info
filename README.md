@@ -2,7 +2,7 @@
 # Go (Golang)
 
 Go is a statically typed, compiled, open source programming language designed by Google and first
-appeared in 2009. It’s synonymous with server-side development and tooling for infrastructure projects.
+appeared in 2009.
 
 Go is very popular for server-side projects, but it is also very popular for writing Command
 Line Interfaces (CLIs) because the binaries can be statically linked.
